@@ -1,4 +1,4 @@
-# kursovaya2
+# Vue Single Page Application
 
 ## Project setup
 ```
